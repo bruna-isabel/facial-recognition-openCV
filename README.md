@@ -1,2 +1,2 @@
-# facial-recognition
-Playing with OpenCv library 
+# Facial Recognition
+Facial Recognition project using OpenCV and HaarCascade
