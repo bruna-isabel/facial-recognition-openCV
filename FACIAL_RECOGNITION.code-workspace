@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "python_facial_recognition",
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/Users/brunacoimbra/.local/share/virtualenvs/python_facial_recognition-GSiYV_0z/bin/python"
+	}
+}
